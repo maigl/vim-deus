@@ -1,3 +1,7 @@
+" FIXME: this is a lazy hack to fix broken colors in spacevim when using this awesome theme.
+" somehow it helps to load gruvbox before deus..
+source ./bundle/gruvbox/colors/gruvbox.vim
+
 " -----------------------------------------------------------------------------
 " File: deus.vim
 " Description: a retro-modern colorscheme in Vim
